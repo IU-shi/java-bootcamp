@@ -1,6 +1,10 @@
-# Java Bootcamp ☕
+# ☕ Java Bootcamp
 
-This repository documents my Java learning journey through hands-on projects, Git, and core Java concepts.
+Welcome to my Java Bootcamp repository!
+
+This repository documents my journey of learning Java through hands-on projects, Git, and core programming concepts. Every sprint introduces new concepts followed by a project to reinforce learning.
+
+---
 
 # 📖 Roadmap
 
@@ -35,14 +39,19 @@ This repository documents my Java learning journey through hands-on projects, Gi
 
 ---
 
+### 🔜 Sprint 3 – Methods (Functions)
 
-🔜Sprint 3: Methods (Functions)
-🔜 Sprint 4: Loops
-🔜 Sprint 5: Nested Loops & Patterns
-🔜 Sprint 6: Arrays
-🔜 Sprint 7: Strings
-🔜 Sprint 8: Mini Project
+### 🔜 Sprint 4 – Loops
 
+### 🔜 Sprint 5 – Nested Loops & Patterns
+
+### 🔜 Sprint 6 – Arrays
+
+### 🔜 Sprint 7 – Strings
+
+### 🔜 Sprint 8 – Mini Project
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -50,6 +59,24 @@ This repository documents my Java learning journey through hands-on projects, Gi
 - IntelliJ IDEA
 - Git
 - GitHub
+
+---
+
+## 📂 Repository Structure
+
+```text
+src/
+├── level01/
+│   ├── StudentIDCard.java
+│   └── StudentRegistration.java
+└── ...
+```
+
+---
+
+## 📈 Current Progress
+
+**Level 1 • Sprint 2 ✅ Completed**
 
 ---
 
