@@ -2,13 +2,17 @@ import java.util.Scanner;
 public class StudentIDcard {
     public static void main(String[] args) {
         System.out.println("==========================");
-        System.out.println(" Student IDcard Generator ");
+        System.out.println(" Student IDCard Generator ");
         System.out.println("==========================");
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Student's Name: ");
         String name = sc.nextLine();
         System.out.print("Enter Student's age: ");
         int age = sc.nextInt();
+        if (age < 16) {
+            System.out.println("Registration Failed.");
+            System.out.println("Minimum age is 16.");
+        }
         sc.nextLine();
         System.out.print("Enter Student's College name: ");
         String clg = sc.nextLine();
@@ -24,7 +28,7 @@ public class StudentIDcard {
         int choice = sc.nextInt();
         if (choice == 1) {
             System.out.println("========================");
-            System.out.println("     Student IDcard     ");
+            System.out.println("     Student IDCard     ");
             System.out.println("========================");
             System.out.println(" ");
             System.out.println("Name: " + name);
@@ -37,7 +41,7 @@ public class StudentIDcard {
             System.out.println("========================");
         }
         else {
-            System.out.println("Thankyou for the data'");
+            System.out.println("Thank You for the data'");
         }
 
     }
