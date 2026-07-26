@@ -9,10 +9,6 @@ public class StudentIDcard {
         String name = sc.nextLine();
         System.out.print("Enter Student's age: ");
         int age = sc.nextInt();
-        if (age < 16) {
-            System.out.println("Registration Failed.");
-            System.out.println("Minimum age is 16.");
-        }
         sc.nextLine();
         System.out.print("Enter Student's College name: ");
         String clg = sc.nextLine();
