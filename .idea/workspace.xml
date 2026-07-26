@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d854442a-c02b-43ef-9f9b-35e44302b360" name="Changes" comment="student idcard generator" />
+    <list default="true" id="d854442a-c02b-43ef-9f9b-35e44302b360" name="Changes" comment="student idcard generator">
+      <change afterPath="$PROJECT_DIR$/java_bootcamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level01/MethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MethodDemo.executor": "Run",
     "Application.StudentIDcard.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -56,7 +62,19 @@
       <recent name="C:\Users\ayush\IdeaProjects\java_bootcamp\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MethodDemo">
+    <configuration name="MethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.MethodDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentIDcard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StudentIDcard" />
       <module name="java_bootcamp" />
@@ -64,8 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.MethodDemo" />
+      <item itemvalue="Application.StudentIDcard" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodDemo" />
         <item itemvalue="Application.StudentIDcard" />
       </list>
     </recent_temporary>
