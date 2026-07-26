@@ -18,7 +18,7 @@ public class StudentIDcard {
         int semester = sc.nextInt();
         sc.nextLine();
         System.out.print("Enter Student's dream job: ");
-        String  djob = sc.nextLine();
+        String  dreamjob = sc.nextLine();
         System.out.println("Press 1 to generate Student's IDcard.");
         System.out.println("Press anything else to exit.");
         int choice = sc.nextInt();
@@ -32,7 +32,7 @@ public class StudentIDcard {
             System.out.println("College: " + clg);
             System.out.println("Stream: " + stream);
             System.out.println("Semester: " + semester);
-            System.out.println("Dream Job: " + djob);
+            System.out.println("Dream Job: " + dreamjob);
             System.out.println(" ");
             System.out.println("========================");
         }
