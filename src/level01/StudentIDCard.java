@@ -1,3 +1,4 @@
+package level101;
 import java.util.Scanner;
 public class StudentIDCard {
     public static void main(String[] args) {
@@ -42,3 +43,4 @@ public class StudentIDCard {
 
     }
 }
+
