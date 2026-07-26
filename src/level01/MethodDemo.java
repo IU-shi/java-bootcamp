@@ -7,7 +7,14 @@ public class MethodDemo {
         System.out.println("=====================");
     }
 
+    public static void displayHeadingV2(String heading) {
+        System.out.println("=====================");
+        System.out.println(heading);
+        System.out.println("=====================");
+    }
+
     public static void main(String[] args) {
-        MethodDemo.displayHeading();
+        displayHeadingV2("library management");
+        displayHeading();
     }
 }
