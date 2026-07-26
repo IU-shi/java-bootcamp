@@ -1,4 +1,4 @@
-package level101;
+package level01;
 import java.util.Scanner;
 public class StudentIDCard {
     public static void main(String[] args) {
