@@ -39,7 +39,27 @@ This repository documents my journey of learning Java through hands-on projects,
 
 ---
 
-### 🔜 Sprint 3 – Methods (Functions)
+### ✅ Sprint 3 – Methods (Functions)
+
+**Concepts**
+- Creating Methods
+- Method Parameters
+- Method Design
+- Return Values
+- int Return Type
+- double Return Type
+- boolean Return Type
+- String Return Type
+- Reusable Code
+- Single Responsibility Principle (Basic)
+
+**Project**
+- Simple Methods
+- Student Details System
+- ATM Menu
+- Restaurant Menu
+- Return Method Demo
+- Student Result System (Mini Project)
 
 ### 🔜 Sprint 4 – Loops
 
@@ -62,23 +82,42 @@ This repository documents my journey of learning Java through hands-on projects,
 
 ---
 
-## 📂 Repository Structure
+java-bootcamp
+│
+├── level01
+│   ├── StudentIDCardGenerator.java
+│   ├── StudentRegistrationSystem.java
+│   │
+│   └── methodprojects
+│       ├── SimpleMethods.java
+│       ├── Level2Method.java
+│       ├── Level3Method.java
+│       ├── ReturnMethodDemo.java
+│       └── MiniProject.java
+│
+└── README.md
+---
 
-```text
-src/
-├── level01/
-│   ├── StudentIDCard.java
-│   └── StudentRegistration.java
-└── ...
-```
+## 📈 Progress
+
+- ✅ Sprint 1 – Student ID Card Generator
+- ✅ Sprint 2 – Student Registration System
+- ✅ Sprint 3 – Methods
+- 🚧 Sprint 4 – Loops
+- ⏳ Sprint 5 – Nested Loops & Patterns
+- ⏳ Sprint 6 – Arrays
+- ⏳ Sprint 7 – Strings
+- ⏳ Sprint 8 – Mini Project
 
 ---
 
-## 📈 Current Progress
+## 🏆 Milestones
 
-**Level 1 • Sprint 2 ✅ Completed**
-
----
+- ✅ Learned Java syntax
+- ✅ Built multiple console applications
+- ✅ Learned to design reusable methods
+- ✅ Started writing clean and modular code
+- 🚀 Next Goal: Master Loops
 
 ## 👩‍💻 Author
 
