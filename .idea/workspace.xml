@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca7082f9-0113-4f5a-bf7d-776137b1e398" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level01/ReturnMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level01/methodprojects/MiniProject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "Application.Level2Method.executor": "Run",
     "Application.Level3Method.executor": "Run",
     "Application.MethodDemo.executor": "Run",
+    "Application.MiniProject.executor": "Run",
     "Application.ReturnMethodDemo.executor": "Run",
     "Application.SimpleMethods.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
