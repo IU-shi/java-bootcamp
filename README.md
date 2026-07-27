@@ -82,12 +82,14 @@ This repository documents my journey of learning Java through hands-on projects,
 
 ---
 
+## 📂 Repository Structure
+
+```text
 java-bootcamp
 │
 ├── level01
 │   ├── StudentIDCardGenerator.java
 │   ├── StudentRegistrationSystem.java
-│   │
 │   └── methodprojects
 │       ├── SimpleMethods.java
 │       ├── Level2Method.java
@@ -96,7 +98,7 @@ java-bootcamp
 │       └── MiniProject.java
 │
 └── README.md
----
+```
 
 ## 📈 Progress
 
