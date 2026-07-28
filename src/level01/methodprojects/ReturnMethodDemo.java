@@ -1,4 +1,4 @@
-package level01;
+package level01.methodprojects;
 import java.util.Scanner;
 public class ReturnMethodDemo {
     public static int calculateSum(int a, int b){

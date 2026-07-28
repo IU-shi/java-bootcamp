@@ -1,4 +1,4 @@
-package level01;
+package level01.methodprojects;
 
 public class MethodDemo {
     public static void displayHeading() {
