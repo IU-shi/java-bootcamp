@@ -61,7 +61,10 @@ This repository documents my journey of learning Java through hands-on projects,
 - Return Method Demo
 - Student Result System (Mini Project)
 
-### 🔜 Sprint 4 – Loops
+### ✅ Sprint 4 – Loops
+
+**Concepts**
+
 
 ### 🔜 Sprint 5 – Nested Loops & Patterns
 
